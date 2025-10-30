@@ -1,4 +1,4 @@
-# Maximum Subarray
+# Maximum Subarray Ჾ
 
 **Difficulty:** Medium
 
